@@ -58,6 +58,9 @@
     1. Ongeveer 20 km, in 25 minuten
     2. 40 km, in 45 minuten
     3. 60 km, in 65 minuten
+   
+<img width="463" alt="amsterdam utrecht" src="https://github.com/David-L-R/Knowledge-of-Dutch-Society-KNM-/assets/31222514/65f91dcb-d2a0-4d37-9383-44acc7bab132">
+
 
 # Answers
 
