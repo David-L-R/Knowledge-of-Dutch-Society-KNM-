@@ -71,3 +71,7 @@
 48. a. 2 minuten
 49. b. 5 jaar
 50. c. In het zuiden van Nederland
+
+<img width="464" alt="limbur" src="https://github.com/David-L-R/Knowledge-of-Dutch-Society-KNM-/assets/31222514/e6262cde-3ed5-4384-b51a-ee63d608c841">
+
+
