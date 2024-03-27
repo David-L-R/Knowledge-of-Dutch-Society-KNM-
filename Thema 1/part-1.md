@@ -1,4 +1,4 @@
-# Questions
+# Vragen
 
 1. Welke twee buurlanden heeft Nederland?
 
@@ -59,7 +59,7 @@
    2. Omdat er steeds minder ruimte is voor fabrieken in Nederland
    3. Omdat fabriekswerk in het buitenland vaak goedkoper is
 
-# Answers
+# Antwoorden
 
 Certainly! Here are the correct answers listed in the order of the questions:
 

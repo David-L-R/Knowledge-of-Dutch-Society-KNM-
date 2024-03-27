@@ -1,4 +1,4 @@
-# Questions
+# Vragen
 
 41. Wat is het Wilhelmus?
 
@@ -59,7 +59,7 @@
     2. In het midden van Nederaland
     3. In het zuiden van Nederland
 
-# Answers
+# Antwoorden
 
 41. a. Het Nederlandse volkslied
 42. c. Middelburg

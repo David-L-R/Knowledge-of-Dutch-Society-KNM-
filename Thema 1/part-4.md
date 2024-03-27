@@ -1,4 +1,4 @@
-# Questions
+# Vragen
 
 31. Wat is de hoofdstad van Overijssel?
 
@@ -57,7 +57,7 @@
     2. 40 km, in 45 minuten
     3. 60 km, in 65 minuten
 
-# Answers
+# Antwoorden
 
 31. c. Zwolle
 32. b. Christendom

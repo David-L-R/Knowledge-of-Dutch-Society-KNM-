@@ -1,4 +1,4 @@
-# Questions
+# Vragen
 
 21. Hoeveel kilometer is het van Amsterdam naar Rotterdam? Hoe lang doe je erover?
 
@@ -57,7 +57,7 @@
     2. Het begin van de Tweede Wereldoorlog
     3. Het bombardement van Rotterdam
 
-# Answers
+# Antwoorden
 
 21. c. 75 kilometer, in 60 minuten
 22. c. Groningen

@@ -1,4 +1,4 @@
-# Questions
+# Vragen
 
 11. Waar ligt Zeeland?
 
@@ -57,7 +57,7 @@
     2. Op zaterdag
     3. Op zondag
 
-# Answers
+# Antwoorden
 
 11. c. In het zuiden van Nederland
 12. b. Dan vieren veel Nederlanders het einde van de oorlog
