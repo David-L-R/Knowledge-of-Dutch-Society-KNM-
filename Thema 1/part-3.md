@@ -55,6 +55,7 @@
     1. 100 km, in 1 uur
     2. 140 km, in een uur en een half
     3. 180 km, in 2 uur
+   <img width="467" alt="utrecht-heerlen" src="https://github.com/David-L-R/Knowledge-of-Dutch-Society-KNM-/assets/31222514/ee272999-67bf-4723-bb26-1a70a3b36cea">
 
 31. Wat gebeurde er op 10 mei 1940?
     1. Het begin van de Eerste Wereldoorlog
