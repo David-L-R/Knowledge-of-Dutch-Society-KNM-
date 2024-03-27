@@ -47,6 +47,8 @@
     2. 12 minuten
     3. 20 minuten
 
+<img width="467" alt="dodenherdenking" src="https://github.com/David-L-R/Knowledge-of-Dutch-Society-KNM-/assets/31222514/e5186cf6-d3da-45d2-b536-a7fa0a4eec62">
+
 49. Hoe lang duurde de Duitse bezetting van Nederland tijdens de Tweede Wereldoorlog?
 
     1. 80 jaar
@@ -71,3 +73,7 @@
 48. a. 2 minuten
 49. b. 5 jaar
 50. c. In het zuiden van Nederland
+
+<img width="464" alt="limbur" src="https://github.com/David-L-R/Knowledge-of-Dutch-Society-KNM-/assets/31222514/e6262cde-3ed5-4384-b51a-ee63d608c841">
+
+

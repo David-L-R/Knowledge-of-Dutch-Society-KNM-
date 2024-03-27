@@ -35,6 +35,9 @@
     1. De Noordzee werd de Waddenzee
     2. De Zuiderzee werd het IJsselmeer
     3. Het IJsselmeer werd de Zuiderzee
+   
+<img width="464" alt="afsluitdijk" src="https://github.com/David-L-R/Knowledge-of-Dutch-Society-KNM-/assets/31222514/099f43e4-d4ba-4e2a-aa7b-17e03b4ae87c">
+
 
 17. Wat is de hoofdstad van de provincie Noord-Brabant?
 
