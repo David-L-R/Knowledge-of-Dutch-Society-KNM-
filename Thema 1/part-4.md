@@ -47,12 +47,14 @@
     2. 150 km, in 1,5 uur
     3. 250 km, in 2,5 uur
 
-39. Waarom wordt het dagboek van Anne Frank 'Het Achterhuis' genoemd?
+<img width="463" alt="groningen-utrecht" src="https://github.com/David-L-R/Knowledge-of-Dutch-Society-KNM-/assets/31222514/9d9750a9-3894-471c-930a-569e02b0e440">
+
+40. Waarom wordt het dagboek van Anne Frank 'Het Achterhuis' genoemd?
 
     1. Ze woonden daar stiekem tijdens de Tweede Wereldoorlog
     2. Dat was haar achternaam
 
-40. Wat is de afstand tussen Utrecht en Amsterdam? Hoe lang doe je erover?
+41. Wat is de afstand tussen Utrecht en Amsterdam? Hoe lang doe je erover?
     1. Ongeveer 20 km, in 25 minuten
     2. 40 km, in 45 minuten
     3. 60 km, in 65 minuten
