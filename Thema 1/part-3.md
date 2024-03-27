@@ -38,6 +38,8 @@
     3. 1963
     4. 1973
 
+<img width="462" alt="watersnoodramp" src="https://github.com/David-L-R/Knowledge-of-Dutch-Society-KNM-/assets/31222514/32f55752-4fd8-4be0-af25-41dcbcc6c438">
+
 28. De Europoort is in Rotterdam, waar staat u dan?
 
     1. Waar
