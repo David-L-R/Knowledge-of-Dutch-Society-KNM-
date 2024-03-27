@@ -48,9 +48,16 @@
     3. 20 minuten
 
 49. Hoe lang duurde de Duitse bezetting van Nederland tijdens de Tweede Wereldoorlog?
+
     1. 80 jaar
     2. 5 jaar
     3. 6 jaar
+
+50. Waar ligt Limburg?
+
+    1. In het noorden van Nederaland
+    2. In het midden van Nederaland
+    3. In het zuiden van Nederland
 
 # Answers
 
@@ -63,3 +70,4 @@
 47. c. Australië en Canada
 48. a. 2 minuten
 49. b. 5 jaar
+50. c. In het zuiden van Nederland
